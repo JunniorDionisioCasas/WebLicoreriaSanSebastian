@@ -1,0 +1,38 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\ref\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll

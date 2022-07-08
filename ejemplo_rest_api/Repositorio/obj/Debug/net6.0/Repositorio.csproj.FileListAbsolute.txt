@@ -1,0 +1,34 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\ref\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll

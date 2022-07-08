@@ -1,0 +1,146 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\ref\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Web.Cors.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Web.Http.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\cuarto semestre\programa para el modular\Nueva carpeta\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
